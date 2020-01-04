@@ -1,0 +1,33 @@
+Notes about my iPython notebooks:
+
+1. ANN.ipynb
+
+    - Contains the ANN model from class
+    
+2. augment.ipynb
+
+    - This is a custom class which I use for applying image rotation.
+    - It contains 3 functions:
+        - shuffle_data -> This randomly shuffles all the rotated values and targets while keeping them intact together 
+        - augment_data -> Here I loop twice over the values in the training set to apply rotation both clockwise and anticlockwise 
+        - fit_augmented_model -> Function to train either a k-NN or ANN using the augmented data 
+
+3. kNN.ipynb 
+
+    - Contains the kNN model from class
+    - added new test with activations to using encodings from Autoencoder
+    
+4. preprocess.ipynb
+
+    - Custom class containing all the necessary preprocessing functions
+
+5. sim_metrics.ipynb
+
+    - Notebook containing similarity/distance metrics for k-NN
+    
+
+7. utils.ipynb
+
+    - Contains some global variables and helper functions
+        
+    

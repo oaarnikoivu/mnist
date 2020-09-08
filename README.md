@@ -2,4 +2,4 @@
 
 MNIST Digit Classification using an ANN, k-Nearest Neighbour and hybrid of the two.
 
-You can view the report [here]()
+[Report](https://github.com/oaarnikoivu/mnist/blob/master/AARNIKOIVU%20Oliver%20-%20MNIST%20Report.pdf)
